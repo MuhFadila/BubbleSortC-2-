@@ -7,6 +7,10 @@ namespace BubbleSortC__2_
         // Deklarasi array int dengan ukuran 20
         private int[] = new int[20];
 
+        // Deklarasi varibel int untuk menyimpan banyaknya data pada array
+        private int n;
+
+        //
        
     }
 }
