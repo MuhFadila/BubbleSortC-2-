@@ -4,9 +4,9 @@ namespace BubbleSortC__2_
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        // Deklarasi array int dengan ukuran 20
+        private int[] = new int[20];
+
+       
     }
 }
